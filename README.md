@@ -43,7 +43,7 @@ This program Is distributed In the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
 
-#About this modification
+### About this modification
 With this script you can open all police station doors with one keycard or you can lockpick this doors but the difference it is, if you have one keycard (you need steel one cop or something to get one) you can open the doors making /door but if you have one lockpick you need do /doorlk and you have a probabilty (you can open the door or not).
 
 I hope you enjoy this modification :D .
